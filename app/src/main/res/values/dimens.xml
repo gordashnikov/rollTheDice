@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="stringSize">30sp</dimen>
+    <dimen name="buttonHeight">50dp</dimen>
+    <dimen name="marginMain">8dp</dimen>
+    <dimen name="diceSize">200dp</dimen>
+</resources>
